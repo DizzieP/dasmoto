@@ -74,6 +74,6 @@ h1 {
     font-weight: bold;
     color: khaki;
     background-size: cover;
-    background-image: url("resources/images/pattern 2.jpeg");
+    background-image: url("./resources/images/pattern 2.jpeg");
 }
 }
