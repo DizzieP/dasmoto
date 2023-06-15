@@ -7,6 +7,8 @@
 div.header {
     width: 100%;
     height: 100%;
+    background-size: cover;
+    background-image: url("pattern_2.jpeg");
 }
 
 h1 {
@@ -19,8 +21,7 @@ h1 {
     font-size: 100px;
     font-weight: bold;
     color: khaki;
-    background-size: cover;
-    background-image: url("pattern_2.jpeg");
+    
 }
 
 .brushes-header {
@@ -78,7 +79,13 @@ h1 {
     font-size: 50px;
     font-weight: bold;
     color: khaki;
+   
+}
+
+div.header {
     background-size: cover;
     background-image: url("pattern_2.jpeg");
+    width: 100%;
+    height: 100%;
 }
 }
